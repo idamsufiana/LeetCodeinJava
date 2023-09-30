@@ -1,5 +1,5 @@
 # LeetCodeinJava
 Leetcode in Java
 
-- Leetcode.com
+- https://leetcode.com/
 - https://neetcode.io/roadmap
